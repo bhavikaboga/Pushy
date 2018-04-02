@@ -13,7 +13,7 @@
 		- Instant App Development SDK
 # Android Emulator Setup
 - Under `AVD Mangager`, Click `Create Virtual Device`
-	- Click Next
+	- Click `Next`
 	- Go to `x86 Images` and download `Relase Name- Lollipop, API Level- 21, ABI- x86_64`
 # Git Setup
 - Install Git: https://git-scm.com/downloads
