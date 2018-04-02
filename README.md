@@ -17,6 +17,6 @@
 Click "Show Package Details"
 Under "SDK Platforms", install everything under Android 8.1
 Under "SDK Tools", install Google Play Services and Google USB Driver  
-# Start working on Project
+# Start the Project
 - Go to `Files\New\Project From Version Control\Git`
 - Clone respository: https://github.com/bhavikaboga/Pushy.git
