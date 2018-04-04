@@ -24,11 +24,11 @@
 - Clone respository: https://github.com/bhavikaboga/Pushy.git
 
 # Git Commands
-In the directory of the project, use the following commands
-`git init` \\ starts a local git repository
-`git status` \\ shows what files are up to date and what are not on your local repository 
-To update your local repository
-`git add -A` \\ adds all changed files
-`git commit -m "commit message"` \\ commits the changed files to your local repository
-To share all your changes
-`git push` \\ pushes changed files to remote repository
+- In the directory of the project, use the following commands
+	- `git init` \\ starts a local git repository
+	-`git status` \\ shows what files are up to date and what are not on your local repository 
+- To update your local repository
+	-`git add -A` \\ adds all changed files
+	-`git commit -m "commit message"` \\ commits the changed files to your local repository
+- To share all your changes
+	-`git push` \\ pushes changed files to remote repository
